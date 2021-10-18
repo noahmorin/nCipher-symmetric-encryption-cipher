@@ -1,0 +1,5 @@
+This is an example of a sample text to be encrypted.
+
+This is a second line to be encrypted.
+
+This is a third and final line to be encrypted!
